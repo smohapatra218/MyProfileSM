@@ -1,2 +1,0 @@
-# MyProfileSM
-My profile
